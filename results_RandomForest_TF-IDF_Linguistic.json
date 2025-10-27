@@ -1,0 +1,104 @@
+{
+  "dataset": "HealthStory",
+  "n_samples": 1638,
+  "n_features": 1025,
+  "models": {
+    "regression": {
+      "r2": 0.23026907257558815,
+      "rmse": 1.0349608711181886,
+      "mae": 0.8347441976295468
+    },
+    "binary": {
+      "accuracy": 0.7439024390243902,
+      "f1": 0.8426966292134831,
+      "precision": 0.7550335570469798,
+      "recall": 0.9533898305084746
+    },
+    "multitask": {
+      "avg_accuracy": 0.7289634146341464,
+      "avg_f1": 0.700418432948088,
+      "per_criterion": [
+        {
+          "criterion": "C1",
+          "name": "C1: Omawia koszty interwencji",
+          "accuracy": 0.7012195121951219,
+          "precision": 0.6785714285714286,
+          "recall": 0.5507246376811594,
+          "f1": 0.608
+        },
+        {
+          "criterion": "C2",
+          "name": "C2: Kwantyfikuje korzy\u015bci",
+          "accuracy": 0.6920731707317073,
+          "precision": 0.6111111111111112,
+          "recall": 0.2920353982300885,
+          "f1": 0.39520958083832336
+        },
+        {
+          "criterion": "C3",
+          "name": "C3: Omawia zagro\u017cenia/skutki uboczne",
+          "accuracy": 0.6554878048780488,
+          "precision": 0.63,
+          "recall": 0.45323741007194246,
+          "f1": 0.5271966527196653
+        },
+        {
+          "criterion": "C4",
+          "name": "C4: Ocenia jako\u015b\u0107 dowod\u00f3w",
+          "accuracy": 0.6890243902439024,
+          "precision": 0.6966292134831461,
+          "recall": 0.45255474452554745,
+          "f1": 0.5486725663716814
+        },
+        {
+          "criterion": "C5",
+          "name": "C5: Nie przesadza z chorob\u0105 (disease-mongering)",
+          "accuracy": 0.8536585365853658,
+          "precision": 0.8722741433021807,
+          "recall": 0.975609756097561,
+          "f1": 0.9210526315789473
+        },
+        {
+          "criterion": "C6",
+          "name": "C6: U\u017cywa niezale\u017cnych \u017ar\u00f3de\u0142",
+          "accuracy": 0.6432926829268293,
+          "precision": 0.6857142857142857,
+          "recall": 0.6593406593406593,
+          "f1": 0.6722689075630253
+        },
+        {
+          "criterion": "C7",
+          "name": "C7: Por\u00f3wnuje z alternatywami",
+          "accuracy": 0.5792682926829268,
+          "precision": 0.5870646766169154,
+          "recall": 0.6820809248554913,
+          "f1": 0.6310160427807486
+        },
+        {
+          "criterion": "C8",
+          "name": "C8: Ustala dost\u0119pno\u015b\u0107",
+          "accuracy": 0.8323170731707317,
+          "precision": 0.8385093167701864,
+          "recall": 0.989010989010989,
+          "f1": 0.907563025210084
+        },
+        {
+          "criterion": "C9",
+          "name": "C9: Nowo\u015b\u0107 vs. faktyczna innowacja",
+          "accuracy": 0.7195121951219512,
+          "precision": 0.7278481012658228,
+          "recall": 0.9745762711864406,
+          "f1": 0.8333333333333334
+        },
+        {
+          "criterion": "C10",
+          "name": "C10: Identyfikuje konflikty interes\u00f3w",
+          "accuracy": 0.9237804878048781,
+          "precision": 0.9228395061728395,
+          "recall": 1.0,
+          "f1": 0.9598715890850722
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+# Wymagane biblioteki dla projektu FakeHealth
+# Instalacja: pip install -r requirements.txt
+
+# Podstawowe biblioteki
+pandas
+numpy
+scipy
+scikit-learn
+
+# Wizualizacja
+matplotlib
+seaborn
+
+# NLP - wymagane dla notebooków
+spacy
+textblob
+
+# Interpretacja modeli
+shap
+
+# Jupyter
+jupyter
+ipykernel
+
+# Zaawansowane (opcjonalne - odkomentuj jeśli potrzebujesz)
+# xgboost
+# lightgbm
+# nltk
+# gensim
+# transformers
+# torch
+# lime

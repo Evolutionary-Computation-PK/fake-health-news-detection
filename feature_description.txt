@@ -1,0 +1,90 @@
+0. Cechy Reprezentacji Tekstu (Textual Representation Features)
+    Bag-of-Words (BoW):
+        Ważenie Binarne (Binary Weighting).
+        Ważenie TF-IDF (Term Frequency—Inverse Document Frequency).
+    Osadzanie Słów (Word Embeddings – WE):
+        Wektory wartości rzeczywistych kodujące znaczenie słów (np. model GloVe).
+
+
+1. Cechy Lingwistyczno-Stylistyczne (Linguistic-Stylistic Features)
+
+- Adjective: znormalizowana liczba przymiotników
+- Adverb: znormalizowana liczba przysłówków
+- Be_form_verb: znormalizowana liczba czasowników w formie "to be"
+- Conditional: znormalizowana liczba terminów warunkowych
+- Contrast_conjunction: znormalizowana liczba spójników kontrastowych
+- Definit_determiners: znormalizowana liczba określonych określników
+- Exclamation_point: znormalizowana liczba wykrzykników
+- First_person: znormalizowana liczba terminów pierwszej osoby
+- Following_conjunction: znormalizowana liczba spójników następujących
+- Gerund: znormalizowana liczba form gerundium
+- Have_form_verb: znormalizowana liczba czasowników w formie "to have"
+- Inferential_conjunction: znormalizowana liczba spójników inferencyjnych
+- Modal: znormalizowana liczba Modali
+- Negation: znormalizowana liczba negacji
+- Participle: znormalizowana liczba imiesłowów
+- Past_tense: znormalizowana liczba terminów czasu przeszłego
+- Proper_nouns: znormalizowana liczba nazw własnych
+- Question_particle: znormalizowana liczba cząstek pytających
+- Second_person: znormalizowana liczba terminów drugiej osoby
+- Strong_modal: znormalizowana liczba silnych modali
+- Superlative: znormalizowana liczba superlatiwów
+- Third_person: znormalizowana liczba terminów trzeciej osoby
+- Weak_modal: znormalizowana liczba słabych modali
+- Other: znormalizowana liczba terminów niezaklasyfikowanych przez poprzednie cechy
+
+
+2. Cechy Lingwistyczno-Emocjonalne (Linguistic-Emotional Features)
+
+- pol_score: wynik polarności tekstu uzyskany za pomocą TextBlob
+- sub_score: wynik subiektywności tekstu uzyskany za pomocą TextBlob
+- Angry: wynik złości tekstu uzyskany za pomocą text2emotion
+- Fear: wynik strachu tekstu uzyskany za pomocą text2emotion
+- Happy: wynik szczęścia tekstu uzyskany za pomocą text2emotion
+- Sad: wynik smutku tekstu uzyskany za pomocą text2emotion
+- Surprise: wynik zaskoczenia tekstu uzyskany za pomocą text2emotion
+- [anger]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako złość
+- [anticipation]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako oczekiwanie
+- [disgust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako niesmak
+- [fear]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako strach
+- [joy]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako radość
+- [sadness]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako smutek
+- [surprise]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako zaskoczenie
+- [trust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako zaufanie
+- [anger, anticipation]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako złość i oczekiwanie
+- [anger, disgust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako złość i niesmak
+- [anger, fear]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako złość i strach
+- [anger, joy]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako złość i radość
+- [anger, sadness]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako złość i smutek
+- [anger, surprise]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako złość i zaskoczenie
+- [anger, trust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako złość i zaufanie
+- [anticipation, disgust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako oczekiwanie i niesmak
+- [anticipation, fear]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako oczekiwanie i strach
+- [anticipation, joy]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako oczekiwanie i radość
+- [anticipation, sadness]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako oczekiwanie i smutek
+- [anticipation, surprise]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako oczekiwanie i zaskoczenie
+- [anticipation, trust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako oczekiwanie i zaufanie
+- [disgust, fear]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako niesmak i strach
+- [disgust, joy]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako niesmak i radość
+- [disgust, sadness]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako niesmak i smutek
+- [disgust, surprise]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako niesmak i zaskoczenie
+- [disgust, trust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako niesmak i zaufanie
+- [fear, joy]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako strach i radość
+- [fear, sadness]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako strach i smutek
+- [fear, surprise]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako strach i zaskoczenie
+- [fear, trust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako strach i zaufanie
+- [joy, sadness]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako radość i smutek
+- [joy, surprise]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako radość i zaskoczenie
+- [joy, trust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako radość i zaufanie
+- [sadness, surprise]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako smutek i zaskoczenie
+- [sadness, trust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako smutek i zaufanie
+- [surprise, trust]: znormalizowana liczba terminów oznaczonych przez NRC leksykon jako zaskoczenie i zaufanie
+
+
+3. Cechy Lingwistyczno-Medyczne (Linguistic-Medical Features)
+
+- biomedical_terms: znormalizowana liczba terminów biomedycznych
+- biomedical_terms_unique: znormalizowana liczba unikalnych terminów biomedycznych
+- commercial_terms: znormalizowana liczba terminów komercyjnych
+- commercial_terms_unique: znormalizowana liczba unikalnych terminów komercyjnych
+- url_count: znormalizowana liczba adresów URL
