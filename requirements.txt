@@ -10,6 +10,10 @@ scikit-learn
 # Wizualizacja
 matplotlib
 seaborn
+wordcloud
+
+# NER
+stanza
 
 # NLP - wymagane dla notebooków
 spacy
@@ -23,10 +27,11 @@ jupyter
 ipykernel
 
 # Zaawansowane (opcjonalne - odkomentuj jeśli potrzebujesz)
+tensorflow
 # xgboost
 # lightgbm
 # nltk
 # gensim
-# transformers
+transformers
 # torch
 # lime
