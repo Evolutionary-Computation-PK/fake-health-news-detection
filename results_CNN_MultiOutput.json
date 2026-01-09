@@ -1,0 +1,78 @@
+{
+  "dataset": "HealthStory",
+  "n_samples": 1638,
+  "vocab_size": 19905,
+  "model": "CNN Multi-Output",
+  "parameters": {
+    "embedding_dim": 300,
+    "epochs": 10,
+    "batch_size": 64
+  },
+  "metrics_per_criterion": [
+    {
+      "criterion": "C1: Koszty interwencji",
+      "accuracy": 0.8170731707317073,
+      "f1": 0.5833333333333334,
+      "recall": 0.525
+    },
+    {
+      "criterion": "C2: Korzy\u015bci",
+      "accuracy": 0.6615853658536586,
+      "f1": 0.26490066225165565,
+      "recall": 0.1834862385321101
+    },
+    {
+      "criterion": "C3: Zagro\u017cenia",
+      "accuracy": 0.676829268292683,
+      "f1": 0.32051282051282054,
+      "recall": 0.22935779816513763
+    },
+    {
+      "criterion": "C4: Jako\u015b\u0107 dowod\u00f3w",
+      "accuracy": 0.649390243902439,
+      "f1": 0.5267489711934157,
+      "recall": 0.5
+    },
+    {
+      "criterion": "C5: Choroba",
+      "accuracy": 0.8292682926829268,
+      "f1": 0.9066666666666666,
+      "recall": 1.0
+    },
+    {
+      "criterion": "C6: \u0179r\u00f3d\u0142a",
+      "accuracy": 0.6402439024390244,
+      "f1": 0.6878306878306878,
+      "recall": 0.7558139534883721
+    },
+    {
+      "criterion": "C7: Alternatywy",
+      "accuracy": 0.551829268292683,
+      "f1": 0.5016949152542373,
+      "recall": 0.4539877300613497
+    },
+    {
+      "criterion": "C8: Dost\u0119pno\u015b\u0107",
+      "accuracy": 0.6920731707317073,
+      "f1": 0.8061420345489443,
+      "recall": 0.9502262443438914
+    },
+    {
+      "criterion": "C9: Innowacja",
+      "accuracy": 0.6646341463414634,
+      "f1": 0.793233082706767,
+      "recall": 0.9768518518518519
+    },
+    {
+      "criterion": "C10: Konflikty",
+      "accuracy": 0.850609756097561,
+      "f1": 0.9181969949916527,
+      "recall": 1.0
+    }
+  ],
+  "average_metrics": {
+    "accuracy": 0.7033536585365854,
+    "f1": 0.6309260169290181,
+    "recall": 0.6574723816442712
+  }
+}

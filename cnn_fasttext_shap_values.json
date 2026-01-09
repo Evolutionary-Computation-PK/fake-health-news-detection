@@ -1,0 +1,7200 @@
+[
+  {
+    "text_index": 0,
+    "original_text": "would certainly premature suggest take statin prevent rheumatoid arthritis tell webmd one important message people prescribe adhere treatment right people begin take statin stop within two year study researcher gabriel chodick md call risk reduction important meaningful say research need confirm association regular use statin associate reduction rheumatoid arthritis ra risk newly report study patient enrol one israel large health plan sept people take cholesterol lower statin drug reduce heart disease risk may also cut risk develop painful inflammatory joint disease rheumatoid arthritis statin rheumatoid arthritis widely prescribe class drug world statin crestor lescol lipitor <OOV> zocor reduce cholesterol blood block enzyme liver associate production also suggestion statin reduce systemic inflammation may protective ra chronic inflammatory disease several study suggest role statin slow progression disease among patient rheumatoid arthritis other fail find protective benefit statin use newly publish study chodick colleague examine datum million member israel maccabi healthcare service hmo new case rheumatoid arthritis identify group analysis reveal patient take statin least eight year decade long study period roughly less likely develop rheumatoid arthritis people take statin take less persistently modest reduction osteoarthritis risk see persistent statin user like rheumatoid arthritis osteoarthritis chronic degenerative joint disease drive inflammation statin use likely affect development progression study appear september issue journal plos medicine",
+    "shap_per_word": [
+      {
+        "word": "would",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "certainly",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "premature",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "suggest",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "take",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "prevent",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "rheumatoid",
+        "shap_value": 0.00010114812646023534
+      },
+      {
+        "word": "arthritis",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "tell",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "webmd",
+        "shap_value": 0.00010114812646023532
+      },
+      {
+        "word": "one",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "important",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "message",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "prescribe",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "adhere",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "right",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "begin",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "take",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "stop",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "within",
+        "shap_value": 0.00010114812646023535
+      },
+      {
+        "word": "two",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "year",
+        "shap_value": 0.00010114812646023511
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "gabriel",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "chodick",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "md",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "call",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "reduction",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "important",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "meaningful",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010114812646023532
+      },
+      {
+        "word": "research",
+        "shap_value": 0.00010114812646023532
+      },
+      {
+        "word": "need",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "confirm",
+        "shap_value": 0.0001011481264602352
+      },
+      {
+        "word": "association",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "regular",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "associate",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "reduction",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "rheumatoid",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "arthritis",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "ra",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "newly",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "report",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010114812646023519
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "enrol",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "one",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "israel",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "large",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "health",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "plan",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "sept",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "take",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "cholesterol",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "lower",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023519
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "reduce",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "heart",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "may",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "also",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "cut",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "develop",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "painful",
+        "shap_value": 0.00010114812646023532
+      },
+      {
+        "word": "inflammatory",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "joint",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "rheumatoid",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "arthritis",
+        "shap_value": 0.00010114812646023505
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "rheumatoid",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "arthritis",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "widely",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "prescribe",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "class",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "world",
+        "shap_value": 0.00010114812646023535
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "crestor",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "lescol",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "lipitor",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "zocor",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "reduce",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "cholesterol",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "blood",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "block",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "enzyme",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "liver",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "associate",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "production",
+        "shap_value": 0.00010114812646023511
+      },
+      {
+        "word": "also",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "suggestion",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "reduce",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "systemic",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "inflammation",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "may",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "protective",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "ra",
+        "shap_value": 0.00010114812646023517
+      },
+      {
+        "word": "chronic",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "inflammatory",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "several",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "study",
+        "shap_value": 0.0001011481264602352
+      },
+      {
+        "word": "suggest",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "role",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "slow",
+        "shap_value": 0.0001011481264602352
+      },
+      {
+        "word": "progression",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "among",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010114812646023519
+      },
+      {
+        "word": "rheumatoid",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "arthritis",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "other",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "fail",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "find",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "protective",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "benefit",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "newly",
+        "shap_value": 0.00010114812646023517
+      },
+      {
+        "word": "publish",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "chodick",
+        "shap_value": 0.00010114812646023519
+      },
+      {
+        "word": "colleague",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "examine",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "datum",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "million",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "member",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "israel",
+        "shap_value": 0.00010114812646023536
+      },
+      {
+        "word": "maccabi",
+        "shap_value": 0.00010114812646023508
+      },
+      {
+        "word": "healthcare",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "service",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "hmo",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "new",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "case",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "rheumatoid",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "arthritis",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "identify",
+        "shap_value": 0.00010114812646023511
+      },
+      {
+        "word": "group",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "analysis",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "reveal",
+        "shap_value": 0.00010114812646023532
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "take",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023519
+      },
+      {
+        "word": "least",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "eight",
+        "shap_value": 0.00010114812646023516
+      },
+      {
+        "word": "year",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "decade",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "long",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010114812646023517
+      },
+      {
+        "word": "period",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "roughly",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "less",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "likely",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "develop",
+        "shap_value": 0.00010114812646023531
+      },
+      {
+        "word": "rheumatoid",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "arthritis",
+        "shap_value": 0.00010114812646023516
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "take",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "take",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "less",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "persistently",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "modest",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "reduction",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "osteoarthritis",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.00010114812646023519
+      },
+      {
+        "word": "see",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "persistent",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "user",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "like",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "rheumatoid",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "arthritis",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "osteoarthritis",
+        "shap_value": 0.00010114812646023528
+      },
+      {
+        "word": "chronic",
+        "shap_value": 0.0001011481264602353
+      },
+      {
+        "word": "degenerative",
+        "shap_value": 0.00010114812646023534
+      },
+      {
+        "word": "joint",
+        "shap_value": 0.00010114812646023534
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "drive",
+        "shap_value": 0.00010114812646023511
+      },
+      {
+        "word": "inflammation",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "statin",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "likely",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "affect",
+        "shap_value": 0.00010114812646023532
+      },
+      {
+        "word": "development",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "progression",
+        "shap_value": 0.00010114812646023523
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010114812646023524
+      },
+      {
+        "word": "appear",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "september",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "issue",
+        "shap_value": 0.00010114812646023527
+      },
+      {
+        "word": "journal",
+        "shap_value": 0.00010114812646023526
+      },
+      {
+        "word": "plos",
+        "shap_value": 0.00010114812646023522
+      },
+      {
+        "word": "medicine",
+        "shap_value": 0.00010114812646023532
+      }
+    ]
+  },
+  {
+    "text_index": 1,
+    "original_text": "small study experimental drug advanced melanoma brutal disease often kill within nine month give rare hope doctor patient first time doctor say new therapy include drug allow envision time might able keep melanoma patient alive year treat tumor would chronic disease q learn promise new drug pill know plx cure melanoma help roughly melanoma patient whose tumor mutation key gene call braf among patient study see tumor shrink patient drug keep melanoma check median seven month say study lead author keith flaherty massachusetts general hospital drug ever help high percentage patient melanoma solid tumor say paul chapman co author study today new england journal medicine result especially striking say consider patient respond standard treatment melanoma improve overall survival important breakthrough melanoma ever say lynn schuchter university pennsylvania work study patient improve within day say common side effect fatigue rash joint pain patient also develop non lethal skin cancer study say recently patient treatment option last new treatment advanced melanoma approve year ago say timothy turnham executive director melanoma research foundation june however researcher publish result another experimental drug ipilimumab first prolong overall survival advanced melanoma patient large scale trial researcher already develop several drug similar plx turnham say could key prevent relapse although cancer often mutate get around one roadblock disease might hard time overcome two three four different obstacle one day flaherty say doctor hope routinely test patient tumor genetic makeup prescribe drug combination keep melanoma control year new drug give we something never reverse disease period time give people <OOV> say goal much <OOV> aim buy patient nine month hope mark begin era guideline share usa today community please keep comment smart civil attack reader personally keep language decent use report abuse button make difference share usa today community please keep comment smart civil attack reader personally keep language decent use report abuse button make difference read",
+    "shap_per_word": [
+      {
+        "word": "small",
+        "shap_value": 0.00010774659619467412
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "experimental",
+        "shap_value": 0.00010774659619467408
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010774659619467418
+      },
+      {
+        "word": "advanced",
+        "shap_value": 0.00010774659619467415
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467384
+      },
+      {
+        "word": "brutal",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "often",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "kill",
+        "shap_value": 0.00010774659619467385
+      },
+      {
+        "word": "within",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "nine",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "month",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "give",
+        "shap_value": 0.00010774659619467412
+      },
+      {
+        "word": "rare",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "hope",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "doctor",
+        "shap_value": 0.00010774659619467361
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "first",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "time",
+        "shap_value": 0.000107746596194674
+      },
+      {
+        "word": "doctor",
+        "shap_value": 0.00010774659619467414
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467392
+      },
+      {
+        "word": "new",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "include",
+        "shap_value": 0.0001077465961946739
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "allow",
+        "shap_value": 0.00010774659619467393
+      },
+      {
+        "word": "envision",
+        "shap_value": 0.00010774659619467411
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00010774659619467407
+      },
+      {
+        "word": "might",
+        "shap_value": 0.00010774659619467411
+      },
+      {
+        "word": "able",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "keep",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "alive",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "year",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "treat",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "tumor",
+        "shap_value": 0.00010774659619467406
+      },
+      {
+        "word": "would",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "chronic",
+        "shap_value": 0.00010774659619467404
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010774659619467368
+      },
+      {
+        "word": "q",
+        "shap_value": 0.00010774659619467392
+      },
+      {
+        "word": "learn",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "promise",
+        "shap_value": 0.0001077465961946739
+      },
+      {
+        "word": "new",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "pill",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "know",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "plx",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "cure",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "help",
+        "shap_value": 0.00010774659619467418
+      },
+      {
+        "word": "roughly",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467418
+      },
+      {
+        "word": "whose",
+        "shap_value": 0.00010774659619467404
+      },
+      {
+        "word": "tumor",
+        "shap_value": 0.00010774659619467399
+      },
+      {
+        "word": "mutation",
+        "shap_value": 0.00010774659619467392
+      },
+      {
+        "word": "key",
+        "shap_value": 0.00010774659619467382
+      },
+      {
+        "word": "gene",
+        "shap_value": 0.000107746596194674
+      },
+      {
+        "word": "call",
+        "shap_value": 0.000107746596194674
+      },
+      {
+        "word": "braf",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "among",
+        "shap_value": 0.00010774659619467406
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "see",
+        "shap_value": 0.00010774659619467393
+      },
+      {
+        "word": "tumor",
+        "shap_value": 0.00010774659619467404
+      },
+      {
+        "word": "shrink",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "keep",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467416
+      },
+      {
+        "word": "check",
+        "shap_value": 0.00010774659619467393
+      },
+      {
+        "word": "median",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "seven",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "month",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "lead",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "author",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "keith",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "flaherty",
+        "shap_value": 0.00010774659619467357
+      },
+      {
+        "word": "massachusetts",
+        "shap_value": 0.0001077465961946738
+      },
+      {
+        "word": "general",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "hospital",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "ever",
+        "shap_value": 0.00010774659619467412
+      },
+      {
+        "word": "help",
+        "shap_value": 0.0001077465961946739
+      },
+      {
+        "word": "high",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "percentage",
+        "shap_value": 0.00010774659619467393
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "solid",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "tumor",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467406
+      },
+      {
+        "word": "paul",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "chapman",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "co",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "author",
+        "shap_value": 0.000107746596194674
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010774659619467404
+      },
+      {
+        "word": "today",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "new",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "england",
+        "shap_value": 0.00010774659619467399
+      },
+      {
+        "word": "journal",
+        "shap_value": 0.00010774659619467401
+      },
+      {
+        "word": "medicine",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "result",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "especially",
+        "shap_value": 0.000107746596194674
+      },
+      {
+        "word": "striking",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "consider",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467392
+      },
+      {
+        "word": "respond",
+        "shap_value": 0.00010774659619467389
+      },
+      {
+        "word": "standard",
+        "shap_value": 0.00010774659619467358
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00010774659619467385
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "improve",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "overall",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "survival",
+        "shap_value": 0.00010774659619467366
+      },
+      {
+        "word": "important",
+        "shap_value": 0.00010774659619467377
+      },
+      {
+        "word": "breakthrough",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "ever",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "lynn",
+        "shap_value": 0.00010774659619467388
+      },
+      {
+        "word": "schuchter",
+        "shap_value": 0.00010774659619467384
+      },
+      {
+        "word": "university",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "pennsylvania",
+        "shap_value": 0.00010774659619467365
+      },
+      {
+        "word": "work",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010774659619467392
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467385
+      },
+      {
+        "word": "improve",
+        "shap_value": 0.00010774659619467361
+      },
+      {
+        "word": "within",
+        "shap_value": 0.00010774659619467389
+      },
+      {
+        "word": "day",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467389
+      },
+      {
+        "word": "common",
+        "shap_value": 0.0001077465961946736
+      },
+      {
+        "word": "side",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "effect",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "fatigue",
+        "shap_value": 0.00010774659619467381
+      },
+      {
+        "word": "rash",
+        "shap_value": 0.00010774659619467351
+      },
+      {
+        "word": "joint",
+        "shap_value": 0.00010774659619467399
+      },
+      {
+        "word": "pain",
+        "shap_value": 0.00010774659619467384
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "also",
+        "shap_value": 0.00010774659619467399
+      },
+      {
+        "word": "develop",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "non",
+        "shap_value": 0.00010774659619467382
+      },
+      {
+        "word": "lethal",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "skin",
+        "shap_value": 0.0001077465961946738
+      },
+      {
+        "word": "cancer",
+        "shap_value": 0.00010774659619467399
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00010774659619467401
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "recently",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467357
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "option",
+        "shap_value": 0.00010774659619467351
+      },
+      {
+        "word": "last",
+        "shap_value": 0.00010774659619467366
+      },
+      {
+        "word": "new",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "advanced",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467389
+      },
+      {
+        "word": "approve",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "year",
+        "shap_value": 0.00010774659619467365
+      },
+      {
+        "word": "ago",
+        "shap_value": 0.00010774659619467385
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "timothy",
+        "shap_value": 0.00010774659619467358
+      },
+      {
+        "word": "turnham",
+        "shap_value": 0.00010774659619467354
+      },
+      {
+        "word": "executive",
+        "shap_value": 0.00010774659619467366
+      },
+      {
+        "word": "director",
+        "shap_value": 0.000107746596194674
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467389
+      },
+      {
+        "word": "research",
+        "shap_value": 0.00010774659619467399
+      },
+      {
+        "word": "foundation",
+        "shap_value": 0.0001077465961946736
+      },
+      {
+        "word": "june",
+        "shap_value": 0.00010774659619467365
+      },
+      {
+        "word": "however",
+        "shap_value": 0.00010774659619467353
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "publish",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "result",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "another",
+        "shap_value": 0.00010774659619467393
+      },
+      {
+        "word": "experimental",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010774659619467365
+      },
+      {
+        "word": "ipilimumab",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "first",
+        "shap_value": 0.0001077465961946739
+      },
+      {
+        "word": "prolong",
+        "shap_value": 0.00010774659619467388
+      },
+      {
+        "word": "overall",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "survival",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "advanced",
+        "shap_value": 0.00010774659619467368
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467366
+      },
+      {
+        "word": "large",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "scale",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "trial",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "already",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "develop",
+        "shap_value": 0.00010774659619467384
+      },
+      {
+        "word": "several",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010774659619467403
+      },
+      {
+        "word": "similar",
+        "shap_value": 0.00010774659619467382
+      },
+      {
+        "word": "plx",
+        "shap_value": 0.00010774659619467368
+      },
+      {
+        "word": "turnham",
+        "shap_value": 0.00010774659619467381
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "could",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "key",
+        "shap_value": 0.00010774659619467368
+      },
+      {
+        "word": "prevent",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "relapse",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "although",
+        "shap_value": 0.00010774659619467377
+      },
+      {
+        "word": "cancer",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "often",
+        "shap_value": 0.00010774659619467365
+      },
+      {
+        "word": "mutate",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "get",
+        "shap_value": 0.00010774659619467392
+      },
+      {
+        "word": "around",
+        "shap_value": 0.00010774659619467392
+      },
+      {
+        "word": "one",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "roadblock",
+        "shap_value": 0.00010774659619467385
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010774659619467415
+      },
+      {
+        "word": "might",
+        "shap_value": 0.0001077465961946736
+      },
+      {
+        "word": "hard",
+        "shap_value": 0.00010774659619467389
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "overcome",
+        "shap_value": 0.00010774659619467366
+      },
+      {
+        "word": "two",
+        "shap_value": 0.00010774659619467362
+      },
+      {
+        "word": "three",
+        "shap_value": 0.00010774659619467357
+      },
+      {
+        "word": "four",
+        "shap_value": 0.00010774659619467365
+      },
+      {
+        "word": "different",
+        "shap_value": 0.00010774659619467358
+      },
+      {
+        "word": "obstacle",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "one",
+        "shap_value": 0.00010774659619467355
+      },
+      {
+        "word": "day",
+        "shap_value": 0.00010774659619467363
+      },
+      {
+        "word": "flaherty",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "doctor",
+        "shap_value": 0.00010774659619467353
+      },
+      {
+        "word": "hope",
+        "shap_value": 0.00010774659619467389
+      },
+      {
+        "word": "routinely",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "test",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "tumor",
+        "shap_value": 0.00010774659619467388
+      },
+      {
+        "word": "genetic",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "makeup",
+        "shap_value": 0.00010774659619467388
+      },
+      {
+        "word": "prescribe",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010774659619467354
+      },
+      {
+        "word": "combination",
+        "shap_value": 0.00010774659619467355
+      },
+      {
+        "word": "keep",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "melanoma",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "control",
+        "shap_value": 0.00010774659619467351
+      },
+      {
+        "word": "year",
+        "shap_value": 0.0001077465961946736
+      },
+      {
+        "word": "new",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "drug",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "give",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "we",
+        "shap_value": 0.00010774659619467355
+      },
+      {
+        "word": "something",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "never",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "reverse",
+        "shap_value": 0.00010774659619467415
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00010774659619467399
+      },
+      {
+        "word": "period",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00010774659619467362
+      },
+      {
+        "word": "give",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00010774659619467366
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "goal",
+        "shap_value": 0.00010774659619467387
+      },
+      {
+        "word": "much",
+        "shap_value": 0.00010774659619467416
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "aim",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "buy",
+        "shap_value": 0.000107746596194674
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00010774659619467353
+      },
+      {
+        "word": "nine",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "month",
+        "shap_value": 0.00010774659619467357
+      },
+      {
+        "word": "hope",
+        "shap_value": 0.00010774659619467377
+      },
+      {
+        "word": "mark",
+        "shap_value": 0.00010774659619467373
+      },
+      {
+        "word": "begin",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "era",
+        "shap_value": 0.00010774659619467355
+      },
+      {
+        "word": "guideline",
+        "shap_value": 0.00010774659619467378
+      },
+      {
+        "word": "share",
+        "shap_value": 0.00010774659619467353
+      },
+      {
+        "word": "usa",
+        "shap_value": 0.00010774659619467362
+      },
+      {
+        "word": "today",
+        "shap_value": 0.00010774659619467361
+      },
+      {
+        "word": "community",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "please",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "keep",
+        "shap_value": 0.00010774659619467357
+      },
+      {
+        "word": "comment",
+        "shap_value": 0.00010774659619467353
+      },
+      {
+        "word": "smart",
+        "shap_value": 0.00010774659619467377
+      },
+      {
+        "word": "civil",
+        "shap_value": 0.00010774659619467354
+      },
+      {
+        "word": "attack",
+        "shap_value": 0.0001077465961946738
+      },
+      {
+        "word": "reader",
+        "shap_value": 0.00010774659619467396
+      },
+      {
+        "word": "personally",
+        "shap_value": 0.00010774659619467354
+      },
+      {
+        "word": "keep",
+        "shap_value": 0.00010774659619467365
+      },
+      {
+        "word": "language",
+        "shap_value": 0.00010774659619467376
+      },
+      {
+        "word": "decent",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00010774659619467353
+      },
+      {
+        "word": "report",
+        "shap_value": 0.00010774659619467397
+      },
+      {
+        "word": "abuse",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "button",
+        "shap_value": 0.00010774659619467374
+      },
+      {
+        "word": "make",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "difference",
+        "shap_value": 0.0001077465961946737
+      },
+      {
+        "word": "share",
+        "shap_value": 0.00010774659619467353
+      },
+      {
+        "word": "usa",
+        "shap_value": 0.00010774659619467416
+      },
+      {
+        "word": "today",
+        "shap_value": 0.00010774659619467388
+      },
+      {
+        "word": "community",
+        "shap_value": 0.00010774659619467389
+      },
+      {
+        "word": "please",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "keep",
+        "shap_value": 0.00010774659619467395
+      },
+      {
+        "word": "comment",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "smart",
+        "shap_value": 0.00010774659619467366
+      },
+      {
+        "word": "civil",
+        "shap_value": 0.00010774659619467362
+      },
+      {
+        "word": "attack",
+        "shap_value": 0.00010774659619467363
+      },
+      {
+        "word": "reader",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "personally",
+        "shap_value": 0.0001077465961946738
+      },
+      {
+        "word": "keep",
+        "shap_value": 0.00010774659619467392
+      },
+      {
+        "word": "language",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "decent",
+        "shap_value": 0.00010774659619467363
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00010774659619467381
+      },
+      {
+        "word": "report",
+        "shap_value": 0.00010774659619467372
+      },
+      {
+        "word": "abuse",
+        "shap_value": 0.00010774659619467369
+      },
+      {
+        "word": "button",
+        "shap_value": 0.000107746596194674
+      },
+      {
+        "word": "make",
+        "shap_value": 0.00010774659619467382
+      },
+      {
+        "word": "difference",
+        "shap_value": 0.00010774659619467363
+      },
+      {
+        "word": "read",
+        "shap_value": 0.00010774659619467393
+      }
+    ]
+  },
+  {
+    "text_index": 2,
+    "original_text": "en espa ol randy dotinga healthday reporter monday jan healthday news major organization pediatrician consider revise recommendation circumcision newborn boy two new review exist research offer conflict conclusion <OOV> debate procedure one review australia say evidence infant circumcision reduce risk sexually transmit disease later life warn significant psychological harm another united states give weight finding africa show procedure perform adult man make major difference prevent disease aids finding come american academy pediatric debate update recommendation regard circumcision among newborn academy take neutral stance general still lot uncertainty surround risk benefit circumcision say dr douglas <OOV> pediatrician university washington familiar review serve task force working academy recommendation clear benefit circumcision say risk circumcision although significant one appear rare write australian researcher examine eight study review late issue annal family medicine two study involve neonatal circumcision six involve old male roughly year old review lead author researcher caryn <OOV> royal <OOV> college surgeon say risk major complication range percent percent may consider unacceptable elective procedure say parent think circumcision medical benefit aware lack consensus robust evidence add though african study link circumcision adult man low rate sexually transmit disease include virus cause aids <OOV> say future study tell finding applicable western world aid much less prevalent consider <OOV> said say circumcision pose problem mental point view potentially cause significant anger feel incomplete hurt frustrated abnormal violate whether circumcision reduce sexual sensitivity <OOV> say evidence affect sensation perform adult high quality study know randomize control trial report whether infant circumcision affect sensation say review january issue archive pediatric adolescent medicine examine three study take different tack say risk complication circumcision less percent serious long term complication extremely rare dr matthew golden associate professor medicine university washington center aids std say ideal study would randomly assign thousand infant either get circumcise get circumcise follow decade trial never getting do do golden say say come circumcision know pretty safe lot evidence benefit information american academy pediatric circumcision",
+    "shap_per_word": [
+      {
+        "word": "en",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "espa",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "ol",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "randy",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "dotinga",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "healthday",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "reporter",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "monday",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "jan",
+        "shap_value": 0.00013484056107776303
+      },
+      {
+        "word": "healthday",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "news",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "major",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "organization",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "pediatrician",
+        "shap_value": 0.00013484056107776303
+      },
+      {
+        "word": "consider",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "revise",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "recommendation",
+        "shap_value": 0.00013484056107776303
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "newborn",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "boy",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "two",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "new",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "review",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "exist",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "research",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "offer",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "conflict",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "conclusion",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "debate",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "procedure",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "one",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "review",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "australia",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "say",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "evidence",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "infant",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "reduce",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "sexually",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "transmit",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "later",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "life",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "warn",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "significant",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "psychological",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "harm",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "another",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "united",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "states",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "give",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "weight",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "finding",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "africa",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "show",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "procedure",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "perform",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "adult",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "man",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "make",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "major",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "difference",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "prevent",
+        "shap_value": 0.00013484056107776303
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "aids",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "finding",
+        "shap_value": 0.00013484056107776303
+      },
+      {
+        "word": "come",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "american",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "academy",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "pediatric",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "debate",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "update",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "recommendation",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "regard",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "among",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "newborn",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "academy",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "take",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "neutral",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "stance",
+        "shap_value": 0.0001348405610777633
+      },
+      {
+        "word": "general",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "still",
+        "shap_value": 0.000134840561077763
+      },
+      {
+        "word": "lot",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "uncertainty",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "surround",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "benefit",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "dr",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "douglas",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "pediatrician",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "university",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "washington",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "familiar",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "review",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "serve",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "task",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "force",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "working",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "academy",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "recommendation",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "clear",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "benefit",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "although",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "significant",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "one",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "appear",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "rare",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "write",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "australian",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "examine",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "eight",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "review",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "late",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "issue",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "annal",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "family",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "medicine",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "two",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "involve",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "neonatal",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.0001348405610777633
+      },
+      {
+        "word": "six",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "involve",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "old",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "male",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "roughly",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "year",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "old",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "review",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "lead",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "author",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "caryn",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "royal",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "college",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "surgeon",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "say",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "major",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "complication",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "range",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "percent",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "percent",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "may",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "consider",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "unacceptable",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "elective",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "procedure",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "parent",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "think",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "benefit",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "aware",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "lack",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "consensus",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "robust",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "evidence",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "add",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "though",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "african",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "link",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "adult",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "man",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "low",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "rate",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "sexually",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "transmit",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "disease",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "include",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "virus",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "cause",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "aids",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "future",
+        "shap_value": 0.000134840561077763
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "tell",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "finding",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "applicable",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "western",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "world",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "aid",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "much",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "less",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "prevalent",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "consider",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "said",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "pose",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "problem",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "mental",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "point",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "view",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "potentially",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "cause",
+        "shap_value": 0.00013484056107776308
+      },
+      {
+        "word": "significant",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "anger",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "feel",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "incomplete",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "hurt",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "frustrated",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "abnormal",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "violate",
+        "shap_value": 0.00013484056107776306
+      },
+      {
+        "word": "whether",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "reduce",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "sexual",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "sensitivity",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "say",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "evidence",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "affect",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "sensation",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "perform",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "adult",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "high",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "quality",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "study",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "know",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "randomize",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "control",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "trial",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "report",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "whether",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "infant",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "affect",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "sensation",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "review",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "january",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "issue",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "archive",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "pediatric",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "adolescent",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "medicine",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "examine",
+        "shap_value": 0.00013484056107776303
+      },
+      {
+        "word": "three",
+        "shap_value": 0.00013484056107776303
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "take",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "different",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "tack",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "risk",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "complication",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "less",
+        "shap_value": 0.000134840561077763
+      },
+      {
+        "word": "percent",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "serious",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "long",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "term",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "complication",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "extremely",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "rare",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "dr",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "matthew",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "golden",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "associate",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "professor",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "medicine",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "university",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "washington",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "center",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "aids",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "std",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776327
+      },
+      {
+        "word": "ideal",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "would",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "randomly",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "assign",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "thousand",
+        "shap_value": 0.0001348405610777633
+      },
+      {
+        "word": "infant",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "either",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "get",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "circumcise",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "get",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "circumcise",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "follow",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "decade",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "trial",
+        "shap_value": 0.00013484056107776303
+      },
+      {
+        "word": "never",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "getting",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "do",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "do",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "golden",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "come",
+        "shap_value": 0.00013484056107776317
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "know",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "pretty",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "safe",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "lot",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "evidence",
+        "shap_value": 0.00013484056107776325
+      },
+      {
+        "word": "benefit",
+        "shap_value": 0.0001348405610777632
+      },
+      {
+        "word": "information",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "american",
+        "shap_value": 0.0001348405610777631
+      },
+      {
+        "word": "academy",
+        "shap_value": 0.00013484056107776322
+      },
+      {
+        "word": "pediatric",
+        "shap_value": 0.00013484056107776314
+      },
+      {
+        "word": "circumcision",
+        "shap_value": 0.0001348405610777632
+      }
+    ]
+  },
+  {
+    "text_index": 3,
+    "original_text": "dolphin <OOV> <OOV> entertaining animal ocean add <OOV> gain reputation suppose heal power last couple decade facility scatter around world offer various form dolphin assist therapy people mental physical ailment essentially expensive opportunity swim dolphin parent child severe autism syndrome cerebral palsy disability spend thousand dollar dolphin base treatment hop animal reach kid way psychiatrist physical therapist medication never could one destination dolphin base treatment island dolphin care key <OOV> fla center six atlantic <OOV> dolphin pen canal connect ocean accord website dolphin personality run gamut <OOV> <OOV> girl center also staff include social worker three special education teacher along speech therapist specialist visit time time five day program cost include minute dolphin time day time spend classroom therapy depend need child wish parent dolphin also work adult include veteran lose limb appear dolphin therapy program california swim dolphin <OOV> san diego offer therapy several program mexico however include live heart dolphin experience <OOV> program include five minute session single dolphin pool three day cost advertisement claim internet <OOV> claim dolphin use natural ultrasound zap tumor heal muscle injury stimulate brain disabled child mechanism completely clear also report dolphin relieve chest pain restore faulty vision site dolphin therapy center ukraine say dolphin treat chronic fatigue syndrome headache depression autism among many condition program close part world tend reserve website island dolphin care claim dolphin cure illness although dolphin say provide <OOV> love support child disability terminal illness advertisement <OOV> <OOV> license social worker executive director island dolphin care say dolphin magical power irresponsible give false hope say believe animal bring joy confidence self esteem child adult add dolphin therapy small part overall program use traditional treatment exciting way say website living heart dolphin experience say autistic child receive dolphin therapy enjoy benefit last two year benefit say include long attention span well emotional control improve communication skill macy <OOV> executive director living heart say provide dolphin therapy year nobody really know dolphin impact say speculate dolphin help synchronize left side right side brain nothing else bottom line think child enjoy <OOV> around big smart aquatic mammal dolphin experience might fine investment look treatment scientifically prove result look past dolphin tank even <OOV> agree real research support dolphin therapy see shortcome positive light science behind say work dolphin study add much say lori marino neuroscience behavioral biology researcher emory university atlanta japanese researcher publish small study suggest dolphin therapy somehow treat eczema finding stretch <OOV> marino say another study year australian researcher conclude swimming dolphin could improve feeling well reduce anxiety finding base questionnaire give healthy people pay adventure predispose see investment worthwhile plausible study publish british medical journal find dolphin therapy relieve depression symptom group adult marino critique study review article publish journal <OOV> accord marino appeal dolphin therapy base mystical belief real result dolphin ultimate new age animal say dolphin feel spiritual imperative heal human far anyone know marino add ultrasound dolphin use navigate far weak medical effect people say swimming dolphin fun <OOV> therapy say advertisement jim ball chairman board director autism society behavioral specialist practice <OOV> n j say autistic child respond well animal general example child trouble read loud may <OOV> confident reading dog many autistic child also enjoy water say perfectly plausible autistic child would become unusually lively engage around dolphin ball say hard say emotional boost would last like swim dolphin every day say health latime com",
+    "shap_per_word": [
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209068
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "entertaining",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "animal",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "ocean",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "add",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "gain",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "reputation",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "suppose",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "heal",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "power",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "last",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "couple",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "decade",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "facility",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "scatter",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "around",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "world",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "offer",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "various",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "form",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "assist",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "mental",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "physical",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "ailment",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "essentially",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "expensive",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "opportunity",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "swim",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "parent",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "child",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "severe",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "autism",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "syndrome",
+        "shap_value": 0.00012364963659209068
+      },
+      {
+        "word": "cerebral",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "palsy",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "spend",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "thousand",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "dollar",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "base",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "hop",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "animal",
+        "shap_value": 0.00012364963659209068
+      },
+      {
+        "word": "reach",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "kid",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "way",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "psychiatrist",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "physical",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "therapist",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "medication",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "never",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "could",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "one",
+        "shap_value": 0.00012364963659209068
+      },
+      {
+        "word": "destination",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "base",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "island",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "care",
+        "shap_value": 0.00012364963659209068
+      },
+      {
+        "word": "key",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "fla",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "center",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "six",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "atlantic",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "pen",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "canal",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "connect",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "ocean",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "accord",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "website",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "personality",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "run",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "gamut",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "girl",
+        "shap_value": 0.00012364963659209068
+      },
+      {
+        "word": "center",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "also",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "staff",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "include",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "social",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "worker",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "three",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "special",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "education",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "teacher",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "along",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "speech",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "therapist",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "specialist",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "visit",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "five",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "day",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "program",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "cost",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "include",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "minute",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "day",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "spend",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "classroom",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "depend",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "need",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "child",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "wish",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "parent",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "also",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "work",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "adult",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "include",
+        "shap_value": 0.00012364963659209068
+      },
+      {
+        "word": "veteran",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "lose",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "limb",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "appear",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "program",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "california",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "swim",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209068
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "san",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "diego",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "offer",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "several",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "program",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "mexico",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "however",
+        "shap_value": 0.00012364963659209057
+      },
+      {
+        "word": "include",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "live",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "heart",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "experience",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "program",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "include",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "five",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "minute",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "session",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "single",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "pool",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "three",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "day",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "cost",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "advertisement",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "claim",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "internet",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "claim",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "natural",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "ultrasound",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "zap",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "tumor",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "heal",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "muscle",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "injury",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "stimulate",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "brain",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "disabled",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "child",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "mechanism",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "completely",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "clear",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "also",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "report",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "relieve",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "chest",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "pain",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "restore",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "faulty",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "vision",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "site",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "center",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "ukraine",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "treat",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "chronic",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "fatigue",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "syndrome",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "headache",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "depression",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "autism",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "among",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "many",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "condition",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "program",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "close",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "part",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "world",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "tend",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "reserve",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "website",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "island",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "care",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "claim",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "cure",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "illness",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "although",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "say",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "provide",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "love",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "support",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "child",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "terminal",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "illness",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "advertisement",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209065
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "license",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "social",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "worker",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "executive",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "director",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "island",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "care",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "magical",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "power",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "irresponsible",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "give",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "false",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "hope",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "believe",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "animal",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "bring",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "joy",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "confidence",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "self",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "esteem",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "child",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "adult",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "add",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "small",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "part",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "overall",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "program",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "traditional",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "exciting",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "way",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "say",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "website",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "living",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "heart",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "experience",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "autistic",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "child",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "receive",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "enjoy",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "benefit",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "last",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "two",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "year",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "benefit",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "include",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "long",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "attention",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "span",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "well",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "emotional",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "control",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "improve",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "communication",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "skill",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "macy",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209063
+      },
+      {
+        "word": "executive",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "director",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "living",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "heart",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "say",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "provide",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "year",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "nobody",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "really",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "know",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "impact",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "speculate",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "help",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "synchronize",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "left",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "side",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "right",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "side",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "brain",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "nothing",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "else",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "bottom",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "line",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "think",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "child",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "enjoy",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "around",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "big",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "smart",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "aquatic",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "mammal",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "experience",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "might",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "fine",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "investment",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "look",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "scientifically",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "prove",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "result",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "look",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "past",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "tank",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "even",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "agree",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "real",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "research",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "support",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "see",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "shortcome",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "positive",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "light",
+        "shap_value": 0.0001236496365920902
+      },
+      {
+        "word": "science",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "behind",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "work",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "study",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "add",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "much",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "lori",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "marino",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "neuroscience",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "behavioral",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "biology",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "emory",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "university",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "atlanta",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "japanese",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "publish",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "small",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "study",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "suggest",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "somehow",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "treat",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "eczema",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "finding",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "stretch",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "marino",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "another",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "year",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "australian",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "conclude",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "swimming",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "could",
+        "shap_value": 0.0001236496365920902
+      },
+      {
+        "word": "improve",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "feeling",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "well",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "reduce",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "anxiety",
+        "shap_value": 0.0001236496365920902
+      },
+      {
+        "word": "finding",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "base",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "questionnaire",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "give",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "healthy",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "pay",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "adventure",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "predispose",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "see",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "investment",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "worthwhile",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "plausible",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "study",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "publish",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "british",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "journal",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "find",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "relieve",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "depression",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "symptom",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "group",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "adult",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "marino",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "critique",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "study",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "review",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "article",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "publish",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "journal",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "accord",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "marino",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "appeal",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "base",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "mystical",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "belief",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "real",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "result",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "ultimate",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "new",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "age",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "animal",
+        "shap_value": 0.0001236496365920902
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "feel",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "spiritual",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "imperative",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "heal",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "human",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "far",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "anyone",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "know",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "marino",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "add",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "ultrasound",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "navigate",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "far",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "weak",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "effect",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "swimming",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "fun",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "say",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "advertisement",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "jim",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "ball",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "chairman",
+        "shap_value": 0.0001236496365920905
+      },
+      {
+        "word": "board",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "director",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "autism",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "society",
+        "shap_value": 0.0001236496365920902
+      },
+      {
+        "word": "behavioral",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "specialist",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "practice",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.0001236496365920906
+      },
+      {
+        "word": "n",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "j",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "autistic",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "child",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "respond",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "well",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "animal",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "general",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "example",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "child",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "trouble",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "read",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "loud",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "may",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "confident",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "reading",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "dog",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "many",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "autistic",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "child",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "also",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "enjoy",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "water",
+        "shap_value": 0.00012364963659209036
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "perfectly",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "plausible",
+        "shap_value": 0.00012364963659209046
+      },
+      {
+        "word": "autistic",
+        "shap_value": 0.0001236496365920902
+      },
+      {
+        "word": "child",
+        "shap_value": 0.0001236496365920903
+      },
+      {
+        "word": "would",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "become",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "unusually",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "lively",
+        "shap_value": 0.00012364963659209055
+      },
+      {
+        "word": "engage",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "around",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "ball",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "hard",
+        "shap_value": 0.00012364963659209044
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209033
+      },
+      {
+        "word": "emotional",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "boost",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "would",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "last",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "like",
+        "shap_value": 0.00012364963659209022
+      },
+      {
+        "word": "swim",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "dolphin",
+        "shap_value": 0.00012364963659209038
+      },
+      {
+        "word": "every",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "day",
+        "shap_value": 0.00012364963659209025
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00012364963659209052
+      },
+      {
+        "word": "health",
+        "shap_value": 0.0001236496365920904
+      },
+      {
+        "word": "latime",
+        "shap_value": 0.00012364963659209028
+      },
+      {
+        "word": "com",
+        "shap_value": 0.0001236496365920904
+      }
+    ]
+  },
+  {
+    "text_index": 4,
+    "original_text": "window help certain stroke patient potentially life save blood clot removal surgical treatment may long previously think accord study publish today journal american medical association traditionally stroke treat medication stabilize diminish blood clot brain select patient surgical intervention remove clot may possible mitigate effect stroke currently american stroke association advise blood clot removal patient emergency procedure call endovascular thrombectomy recently develop increasingly use addition medical therapy do within six hour stroke symptom low amount disability patient face later analysis show time treatment could slightly long hour study could affect current guideline treat stroke patient accord dr cathy sila director comprehensive stroke center university hospital cleveland medical center say compelling rationale move window little bit result lose blood flow brain extend time stroke victim often suffer physical disability lose vary degree independence often require long term care therapy long term disability stroke expensive cost hospitalization sila tell abc news today author multiple institution include university calgary pool datum five study stroke treatment see provide endovascular thrombectomy addition standard medical treatment past six hour would help patient analyze study patient large blood vessel stroke seeking understand much effect blood clot removal surgery perform six hour would long term recovery use benchmark three month stroke assess patient level disability total patient enrol five trial study researcher examine clinical datum brain imaging addition patient physical function find patient receive standard medical therapy along endovascular thrombectomy hour develop stroke symptom less likely patient treat medication report disability three month later examine patient three month stroke hour delay receive treatment correspond bad outcome patient include severe disability less functional independence mean even patient receive treatment outside generally accept hour cut hour point tend report less disability recovery however people receive treatment hour onset symptom statistical improvement dr <OOV> goyal co author study professor radiology university calgary say hope study help raise awareness importance get prompt treatment stroke efficient system provide procedure time brain goyal tell abc news fast establish blood flow brain high likelihood patient good outcome go back independent living sila say study need find kind procedure could benefit people even hour symptom onset point study important since help change guideline push insurance company cover procedure patient need kind datum third party payer would base cost say dr <OOV> lynn internal medicine resident george washington university hospital resident abc news medical unit",
+    "shap_per_word": [
+      {
+        "word": "window",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "help",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "certain",
+        "shap_value": 0.00013665362678294142
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "potentially",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "life",
+        "shap_value": 0.00013665362678294142
+      },
+      {
+        "word": "save",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "blood",
+        "shap_value": 0.0001366536267829414
+      },
+      {
+        "word": "clot",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "removal",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "surgical",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00013665362678294142
+      },
+      {
+        "word": "may",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "long",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "previously",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "think",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "accord",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "publish",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "today",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "journal",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "american",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "association",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "traditionally",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "treat",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "medication",
+        "shap_value": 0.00013665362678294142
+      },
+      {
+        "word": "stabilize",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "diminish",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "blood",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "clot",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "brain",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "select",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "surgical",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "intervention",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "remove",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "clot",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "may",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "possible",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "mitigate",
+        "shap_value": 0.00013665362678294142
+      },
+      {
+        "word": "effect",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "currently",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "american",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "association",
+        "shap_value": 0.00013665362678294142
+      },
+      {
+        "word": "advise",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "blood",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "clot",
+        "shap_value": 0.00013665362678294137
+      },
+      {
+        "word": "removal",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "emergency",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "procedure",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "call",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "endovascular",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "thrombectomy",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "recently",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "develop",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "increasingly",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "addition",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "do",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "within",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "six",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "symptom",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "low",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "amount",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "face",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "later",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "analysis",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "show",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "could",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "slightly",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "long",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "could",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "affect",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "current",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "guideline",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "treat",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "accord",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "dr",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "cathy",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "sila",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "director",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "comprehensive",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "center",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "university",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "hospital",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "cleveland",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "center",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "compelling",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "rationale",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "move",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "window",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "little",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "bit",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "result",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "lose",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "blood",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "flow",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "brain",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "extend",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "victim",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "often",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "suffer",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "physical",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "lose",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "vary",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "degree",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "independence",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "often",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "require",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "long",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "term",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "care",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "long",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "term",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "expensive",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "cost",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "hospitalization",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "sila",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "tell",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "abc",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "news",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "today",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "author",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "multiple",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "institution",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "include",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "university",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "calgary",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "pool",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "datum",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "five",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "see",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "provide",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "endovascular",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "thrombectomy",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "addition",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "standard",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "past",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "six",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "would",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "help",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "analyze",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "large",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "blood",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "vessel",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "seeking",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "understand",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "much",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "effect",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "blood",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "clot",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "removal",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "surgery",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "perform",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "six",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "would",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "long",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "term",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "recovery",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "use",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "benchmark",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "three",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "month",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "assess",
+        "shap_value": 0.00013665362678294123
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "level",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "total",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "enrol",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "five",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "trial",
+        "shap_value": 0.00013665362678294177
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "researcher",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "examine",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "clinical",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "datum",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "brain",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "imaging",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "addition",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294177
+      },
+      {
+        "word": "physical",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "function",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "find",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "receive",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "standard",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "therapy",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "along",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "endovascular",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "thrombectomy",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "develop",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "symptom",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "less",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "likely",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "treat",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "medication",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "report",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "three",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "month",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "later",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "examine",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "three",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "month",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "delay",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "receive",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "correspond",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "bad",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "outcome",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294166
+      },
+      {
+        "word": "include",
+        "shap_value": 0.0001366536267829412
+      },
+      {
+        "word": "severe",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "less",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "functional",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "independence",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "mean",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "even",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "receive",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "outside",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "generally",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "accept",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "cut",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "point",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "tend",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "report",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "less",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "disability",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "recovery",
+        "shap_value": 0.00013665362678294123
+      },
+      {
+        "word": "however",
+        "shap_value": 0.00013665362678294177
+      },
+      {
+        "word": "people",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "receive",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "onset",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "symptom",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "statistical",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "improvement",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "dr",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "goyal",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "co",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "author",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "study",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "professor",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "radiology",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "university",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "calgary",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "hope",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "help",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "raise",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "awareness",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "importance",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "get",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "prompt",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "treatment",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "stroke",
+        "shap_value": 0.00013665362678294177
+      },
+      {
+        "word": "efficient",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "system",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "provide",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "procedure",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "time",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "brain",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "goyal",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "tell",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "abc",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "news",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "fast",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "establish",
+        "shap_value": 0.0001366536267829413
+      },
+      {
+        "word": "blood",
+        "shap_value": 0.00013665362678294145
+      },
+      {
+        "word": "flow",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "brain",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "high",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "likelihood",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "good",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "outcome",
+        "shap_value": 0.00013665362678294126
+      },
+      {
+        "word": "go",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "back",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "independent",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "living",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "sila",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "study",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "need",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "find",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "kind",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "procedure",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "could",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "benefit",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "people",
+        "shap_value": 0.00013665362678294153
+      },
+      {
+        "word": "even",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "hour",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "symptom",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "onset",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "point",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "study",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "important",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "since",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "help",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "change",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "guideline",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "push",
+        "shap_value": 0.0001366536267829416
+      },
+      {
+        "word": "insurance",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "company",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "cover",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "procedure",
+        "shap_value": 0.00013665362678294156
+      },
+      {
+        "word": "patient",
+        "shap_value": 0.00013665362678294177
+      },
+      {
+        "word": "need",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "kind",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "datum",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "third",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "party",
+        "shap_value": 0.00013665362678294147
+      },
+      {
+        "word": "payer",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "would",
+        "shap_value": 0.0001366536267829417
+      },
+      {
+        "word": "base",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "cost",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "say",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "dr",
+        "shap_value": 0.00013665362678294134
+      },
+      {
+        "word": "<OOV>",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "lynn",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "internal",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "medicine",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "resident",
+        "shap_value": 0.00013665362678294164
+      },
+      {
+        "word": "george",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "washington",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "university",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "hospital",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "resident",
+        "shap_value": 0.00013665362678294175
+      },
+      {
+        "word": "abc",
+        "shap_value": 0.0001366536267829415
+      },
+      {
+        "word": "news",
+        "shap_value": 0.00013665362678294172
+      },
+      {
+        "word": "medical",
+        "shap_value": 0.00013665362678294158
+      },
+      {
+        "word": "unit",
+        "shap_value": 0.0001366536267829416
+      }
+    ]
+  }
+]
