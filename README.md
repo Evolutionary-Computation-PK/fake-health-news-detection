@@ -19,7 +19,7 @@ Każdy artykuł zawiera:
 
 ---
 
-## 🚀 Szybki start
+## Wstęp
 
 ### Krok 1: Instalacja zależności
 
@@ -63,7 +63,7 @@ python test_analysis.py
 
 ---
 
-## 📁 Struktura projektu
+## Struktura projektu
 
 ```
 .
@@ -75,7 +75,7 @@ python test_analysis.py
 │       ├── HealthStory.json                     # Recenzje dla HealthStory
 │       └── HealthRelease.json                   # Recenzje dla HealthRelease
 │
-├── RandomForest_TF-IDF_Linguistic.ipynb         # ⭐ Główny notebook z analizą
+├── RandomForest_TF-IDF_Linguistic.ipynb         # Główny notebook z analizą
 ├── results_RandomForest_TF-IDF_Linguistic.json  # Wyniki modeli
 ├── selected_linguistic_features.txt             # Lista 25 cech linguistic
 │
@@ -102,7 +102,7 @@ Po uruchomieniu `prepare_data.py` każdy rekord w plikach `*_combined.json` zawi
 - `source` - źródło artykułu
 
 ### Dane z recenzji:
-- `rating` - **ocena rzetelności (1-5)** - zmienna celu do regresji! ⭐
+- `rating` - **ocena rzetelności (1-5)** - zmienna celu do regresji
   - 1 = najgorszy (fake news)
   - 5 = najlepszy (rzetelny)
 - `review_title` - tytuł recenzji
@@ -158,7 +158,7 @@ Przewidywanie rzetelności artykułów zdrowotnych na podstawie tekstu. Projekt 
 
 ---
 
-## 🔬 Zaimplementowane modele
+## Zaimplementowane modele
 
 ### Features (1025 cech):
 - **TF-IDF** (1000 features): Bag-of-Words z title + text
@@ -180,9 +180,9 @@ Przewidywanie rzetelności artykułów zdrowotnych na podstawie tekstu. Projekt 
 - **Model**: Random Forest Classifier (100 drzew, class_weight='balanced')
 - **Interpretacja**: Feature importance
 - **Wyniki**: Accuracy=0.74, F1=0.84, Precision=0.76, Recall=0.95
-- ⚠️ **Problem**: Model słabo identyfikuje fake news (recall=21% dla fake), za to bardzo dobrze znajduje reliable (recall=95%). Klasyfikuje większość fake newsów (79%) jako reliable - typowy problem niezbalansowanego datasetu
+- **Problem**: Model słabo identyfikuje fake news (recall=21% dla fake), za to bardzo dobrze znajduje reliable (recall=95%). Klasyfikuje większość fake newsów (79%) jako reliable - typowy problem niezbalansowanego datasetu
 
-### Model 3: Multi-Output Random Forest ⭐ **GŁÓWNY MODEL**
+### Model 3: Multi-Output Random Forest **GŁÓWNY MODEL**
 - **Zadanie**: Przewidywanie 10 kryteriów jakości (każde: 0=Not Satisfactory, 1=Satisfactory)
 - **Model**: MultiOutputClassifier z Random Forest (class_weight='balanced')
 - **Interpretacja**: 
@@ -194,7 +194,7 @@ Przewidywanie rzetelności artykułów zdrowotnych na podstawie tekstu. Projekt 
 
 ---
 
-## 📈 Metryki oceny
+## Metryki oceny
 
 ### Dla Regresji (Model 1):
 - **R² Score**: Jakość dopasowania modelu (0-1, wyższy = lepszy)
@@ -210,15 +210,15 @@ Przewidywanie rzetelności artykułów zdrowotnych na podstawie tekstu. Projekt 
 - **Precision**: Jaki % przewidzianych "reliable" jest rzeczywiście reliable
   - Test: **0.76** (dla reliable), **0.63** (dla fake)
 - **Recall**: Jaki % rzeczywistych przypadków model znalazł
-  - Test: **0.95** dla reliable (✅ bardzo dobry - model znajduje 95% reliable)
-  - Test: **0.21** dla fake (⚠️ słaby - model znajduje tylko 21% fake newsów)
+  - Test: **0.95** dla reliable (bardzo dobry - model znajduje 95% reliable)
+  - Test: **0.21** dla fake (słaby - model znajduje tylko 21% fake newsów)
 - **F1-Score**: Średnia harmoniczna precision i recall
   - Test: **0.84** (dla reliable), **0.31** (dla fake)
 - **ROC-AUC**: Zdolność modelu do rozróżniania klas
   - Test: **0.72**
-- ⚠️ **Confusion Matrix**: Z 92 fake newsów tylko 19 sklasyfikowano poprawnie, a 73 błędnie jako reliable (79% błąd!)
+- **Confusion Matrix**: Z 92 fake newsów tylko 19 sklasyfikowano poprawnie, a 73 błędnie jako reliable (79% błąd!)
 
-### Dla Multi-Task (Model 3) ⭐:
+### Dla Multi-Task (Model 3):
 - **Accuracy per kryterium**: Odsetek poprawnych predykcji dla danego kryterium
   - Średnia: **0.73** (od 0.58 dla C7 do 0.92 dla C10)
 - **F1-Score per kryterium**: Średnia harmoniczna precision i recall
@@ -228,7 +228,7 @@ Przewidywanie rzetelności artykułów zdrowotnych na podstawie tekstu. Projekt 
 
 ---
 
-## ⚠️ Uwagi i ograniczenia
+## Uwagi i ograniczenia
 
 ### Ograniczenia datasetu:
 - Rating jest **subiektywny** (ocena ekspertów), ale konsystentny
